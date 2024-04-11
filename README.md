@@ -28,5 +28,5 @@ kivy-matplotlib-widget
 Nach der Installation können Sie das Projekt mit dem folgenden Befehl starten:
 
 ```
-python screen_measosci_guikv.py
+python main.py
 ```
