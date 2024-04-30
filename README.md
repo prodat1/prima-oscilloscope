@@ -2,7 +2,7 @@
 Das Projekt befindet sich noch in Bearbeitung, Abhängigkeiten sind noch zu entfernen.
 
 # PRIMA - Oscilloscope 
-PRIMA-Oscilloscope ist im Rahmen des Forschungs- und Entwicklungsvorhabens "PriMa" (Predictive Maintenance) entstanden.
+PRIMA-Oscilloscope ist im Rahmen des Forschungs- und Entwicklungsvorhabens "PriMa" (Predictive Maintenance) entstanden. Die Bearbeitung des Vorhabens erfolgte durch die TH Wildau und die PRODAT (www.prodat.de).
 [![Projektlink](https://www.prodat.de/images/logos/logo_unternehmen_revier.gif)](https://www.lkspn.de/wirtschaft/unternehmen_revier.html)
 
 Hierbei geht es um die Entwickelung schwingungsbasierte Zustandsüberwachungs- und Prognosesysteme für prädiktive Wartung. 
